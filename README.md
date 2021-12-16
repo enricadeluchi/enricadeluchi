@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enricadeluchi
-- 👀 I’m interested in geodata, metadata, opensource.
+- 👀 I’m interested in geodata, metadata, opensource, gis.
 - 🌱 I’m currently learning sql, gis, interoperability.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me e.deluchi@libero.it
